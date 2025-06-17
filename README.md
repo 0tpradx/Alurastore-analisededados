@@ -1,6 +1,7 @@
 # 🛍️ Alura Store – Análise de Desempenho das Lojas
 
-Este projeto tem como objetivo aplicar conhecimentos de análise de dados para ajudar na tomada de decisão de um cenário fictício: o Sr. João, dono de quatro lojas, deseja vender uma delas. Através de dados reais de vendas, avaliações e fretes, realizamos uma análise exploratória para identificar qual loja apresenta o pior desempenho geral.
+Este projeto tem como objetivo aplicar conhecimentos de análise de dados para ajudar na tomada de decisão de um cenário fictício: o Sr. João, dono de quatro lojas, deseja vender uma delas. 
+Através de dados reais de vendas, avaliações e fretes, realizamos uma análise exploratória para identificar qual loja apresenta o pior desempenho geral.
 
 ---
 
